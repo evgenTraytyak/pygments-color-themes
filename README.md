@@ -1,6 +1,7 @@
 Pygments color themes
 =====================
 
+* [Monokai](#monokai)
 * [Solarized Dark](#solarized-dark)
 * [Tomorrow Light](#tomorrow-light)
 * [Github Style](#github-style)
@@ -17,6 +18,11 @@ Comes as two versions:
 
 # Screenshots
 
+###Monokai###
+
+![Screenshot](screenshots/monokai.png)
+
+---
 ###Solarized Dark###
 
 ![Screenshot](screenshots/solarized-dark.png)
