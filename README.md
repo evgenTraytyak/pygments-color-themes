@@ -1,5 +1,10 @@
-pygments-color-themes
+Pygments color themes
 =====================
+
+* [Solarized Dark](#solarized-dark)
+* [Tomorrow Light](#tomorrow-light)
+* [Github Style](#github-style)
+
 
 This is a collection of top pygments themes for syntax highlighting (github, monokai, solarized)
 
